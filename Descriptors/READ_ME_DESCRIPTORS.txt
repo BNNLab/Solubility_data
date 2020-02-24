@@ -1,0 +1,47 @@
+COLUMN KEY FOR DESCRIPTOR DATA
+===============================================================================
+StdInChIKey = StdInChIKey for molecule; unique identifier
+SMILES = SMILES code for molecule
+Train_test = Whether molecule was in training or test set
+LogS = Solubility (log base 10 C, where C = concentration in units mol/L)
+MW = Molecular Weight
+MP = Experimental melting point in Deg C
+Volume = Molar volume in cm^3 mol^-1
+E0_gas = Gas Phase Zero Point Energy in Ha
+G_gas = Gas Phase Gibbs Energy in Ha
+E0_solv = Solution Phase Zero Point Energy in Ha
+G_solv = Solution Phase Gibbs Energy in Ha
+DeltaE0_sol = E0_solv - E0_gas
+DeltaG_sol = G_solv - G_gas
+HF_E0_gas = Gas Phase Zero Point Energy in Ha using HF SMD protocol
+HF_G_gas = Gas Phase Gibbs Energy in Ha using HF SMD protocol
+HF_E0_solv = Solution Phase Zero Point Energy in Ha using HF SMD protocol
+HF_G_solv = Solution Phase Gibbs Energy in Ha using HF SMD protocol
+HF_DeltaE0_sol = E0_solv - E0_gas using HF SMD protocol
+HF_DeltaG_sol = G_solv - G_gas using HF SMD protocol
+gas_dip = Gas phase dipole
+solv_dip = Solution phase dipole
+HOMO = HOMO energy in eV
+LUMO = LUMO energy in eV
+LsoluHsolv = LUMO of molecule - HOMO of solvent
+LsolvHsolu = LUMO of solvent - HOMO of solute
+SASA = Solvent Accessible Surface Area
+O_charges = Sum of charges on oxygen atoms
+C_charges = Sum of charges on carbon atoms
+Most_neg = Charge of most negative atom
+Most_pos = Charge of most positive atom
+Het_charges = Sum of charges on non-carbon or non-hydrogen atoms
+N_atoms = Number of atoms
+Area1 = Area of 1st shadow projection
+Area2 = Area of 2nd shadow projection (perpendicular to 1st)
+Area3 = Area of 3rd shadow projection (perpendicular to 1st and 2nd)
+Asp1 = Aspect Ratio of 1st shadow projection
+Asp2 = Aspect Ratio of 2nd shadow projection (perpendicular to 1st)
+Asp3 = Aspect Ratio of 3rd shadow projection (perpendicular to 1st and 2nd)
+No_regions = Number of regions of high/low charges on molecular surface
+Tot_charge = Total high/low charge area on molecular surface
+Neg_charge = Total low charge area on molecular surface
+Pos_charge = Total high charge area on molecular surface
+Big_area = Area of biggest region of high/low charge on molecular surface
+Big_charge = Average charge of biggest area of high/low charge on molecular surface
+Big_std = Standard deviation of charge of biggest area of high/low charge on molecular surface

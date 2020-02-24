@@ -1,0 +1,24 @@
+You will need to have your metadata ready before you deposit your data.
+
+Your metadata should include:
+
+    dataset title: Leeds open solubility data
+    creator (s): Samuel Boobier, Bao N. Nguyen
+    dataset description (abstract): Curated solubility data in ethanol, benzene, acetone and water from Open Notebook Science Challenge and Reaxys database.
+    project title: Machine Learning with Causal Structure Property Relationship: Solubility Prediction in Organic Solvents and Water
+    funder (s):  University of Leeds, AstraZeneca
+    grant number
+    academic subject: Chemistry
+    institutional division: School of Chemistry, EPS
+
+The data deposit template comprises the following worksheets:
+
+    Dataset: blank template to record metadata for your datasets
+    Files: blank template to record metadata for your files
+    Dataset sample
+    Files sample
+    Info: Information about how to deposit metadata
+    Controlled lists: Lists of the controlled vocabulary for data fields
+    Subjects: List of academic subjects
+
+This spreadsheet template can support metadata for more than one dataset at a time.
